@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Priya-Kumari-108
-- 👀 I’m interested in App Devlopment
-- 🌱 I’m currently learning Android Studio
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning Rest API using Flask and MongoDB
+- 💞️ I’m looking for internship
+- 
 
 <!---
 Priya-Kumari-108/Priya-Kumari-108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
