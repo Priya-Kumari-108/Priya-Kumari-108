@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Priya-Kumari-108
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Rest API using Flask and MongoDB
+- 🌱 I’m currently learning AWS
 - 💞️ I’m looking for internship
 - 
 
